@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frank187Dev
 - 👀 I’m interested in Fivem Coding
-- 📫 How to reach me https://dsc.gg/galaxyliferp
+- 📫 How to reach me: Discord -> Frank187#1571
 
 <!---
 Frank187Dev/Frank187Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
