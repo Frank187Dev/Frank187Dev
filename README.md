@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frank187Dev
 - 👀 I’m interested in Fivem Coding
-- 📫 How to reach me: Discord -> Flayz#1571
+- 📫 How to reach me: Discord -> discord.gg/core-services
 
 <!---
 Frank187Dev/Frank187Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
